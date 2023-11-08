@@ -1,0 +1,74 @@
+body{
+    width: 100%;
+    height: 100%;
+    background: url(../img/bg-desktop.svg)  no-repeat;
+    background-size: 1590px;
+    background-color:  hsl(257, 40%, 49%);
+    
+    
+}
+
+.header{
+    margin: 34px 80px; 
+}
+
+.hero{
+    display: flex;
+
+}
+.imagem{
+    height: 620px;
+    margin: 40px;
+}
+h1{
+    margin-top: 100px;
+    margin-bottom: 30px;   
+}
+
+p{
+    margin-bottom: 30px;   
+}
+
+.botao{
+    width: 180px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color: #fff;
+    transition: 0.3s;
+    box-shadow: 1px 3px 10px rgb(43, 42, 42); 
+}
+ .botao:hover{
+    background-color: hsl(300, 69%, 71%);
+    color: #fff;
+    
+
+ }
+.rodape{
+    display: flex;
+    justify-content: end;
+    align-content: end;
+    margin-right: 100px; 
+    gap: 20px;  
+}
+
+.facebook, .twitter, .instagram{
+    width: 40px;
+    height: 40px;
+    border: solid 1px;
+    color: #fff;
+    display: flex;
+    border-radius: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.facebook:hover, .twitter:hover, .instagram:hover{
+    border: 1px solid;
+    color: hsl(300, 69%, 71%);
+}
+
+
+

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: "Poppins", sans-serif;
+    width: 600;
+    font-size: 48px;
+    color: #fff;
+    
+}
+p{
+    font-family: "Open Sans", sans-serif;
+    width: 400;
+    font-size: 22px;
+    color: #fff;
+}
+.botao{
+    font-family: "Open Sans", sans-serif;
+    width: 400;
+    font-size: 22px;
+    color: hsl(257, 40%, 49%);
+    
+
+}
+a{
+    text-decoration: none;
+   
+}
+
