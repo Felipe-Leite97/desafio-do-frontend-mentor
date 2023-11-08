@@ -4,12 +4,10 @@ body{
     background: url(../img/bg-desktop.svg)  no-repeat;
     background-size: 1590px;
     background-color:  hsl(257, 40%, 49%);
-    
-    
 }
 
 .header{
-    margin: 34px 80px; 
+    margin: 34px 40px; 
 }
 
 .hero{
