@@ -60,9 +60,31 @@
         font-size: 14px;
         margin-bottom: 50px;
         box-shadow: 1px 3px 10px rgb(43, 42, 42);
-    
+
+    }
+    .rodape{
+        margin: 0;
+        
         
     }
+    .lista{
+        display: flex;
+        justify-self: center;
+        align-items: center;
+        
+
+    }
+    nav{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    
+    }
+    .facebook, .twitter, .instagram{
+        margin: 5px;
+        
+    }
+    
     
 
 }
